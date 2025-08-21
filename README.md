@@ -1,25 +1,25 @@
-# 🎬 MovieMan
+#  MovieMan
 
 **MovieMan** is a desktop application powered by **OpenAI GPT** and the **OMDb API** that helps you discover movies tailored to your mood and preferences.  
 With a simple and elegant **Tkinter GUI**, you can explore movie recommendations, view posters and details, and decide whether it’s a **Smash ✅** or **Pass ❌**.
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- 🤖 **AI-Driven Recommendations** – GPT suggests movies based on your input.
-- 🎞️ **Movie Details & Posters** – fetched in real time from the OMDb API.
-- 🎨 **Light & Dark Mode** – toggle between modern themes.
-- ⚡ **Smooth UX** – threaded API calls prevent the UI from freezing.
-- 👍 **Interactive Flow** – like or skip movies until you find the perfect match.
+-  **AI-Driven Recommendations** – GPT suggests movies based on your input.
+- 🎞 **Movie Details & Posters** – fetched in real time from the OMDb API.
+-  **Light & Dark Mode** – toggle between modern themes.
+-  **Smooth UX** – threaded API calls prevent the UI from freezing.
+-  **Interactive Flow** – like or skip movies until you find the perfect match.
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/movieman.git
+git clone https://github.com/soulofriver/movieman.git
 cd movieman
 ```
 
@@ -69,7 +69,7 @@ python main.py
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 movieman/
@@ -81,13 +81,7 @@ movieman/
 
 ---
 
-## 📸 Screenshots
-
-*(Add screenshots or a demo GIF here to showcase the UI)*
-
----
-
-## 💡 Roadmap
+##  Roadmap
 
 - [ ] Add support for multiple recommendations at once  
 - [ ] Enable session history and restart without quitting  
@@ -96,14 +90,14 @@ movieman/
 
 ---
 
-## 📜 License
+##  License
 
 This project is licensed under the **MIT License**.  
 Feel free to use, modify, and distribute.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 - [OpenAI](https://openai.com/) – for the GPT model powering recommendations.  
 - [OMDb API](https://www.omdbapi.com/) – for movie data and posters.  
